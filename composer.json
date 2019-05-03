@@ -1,5 +1,5 @@
 {
-    "name": "vesse/omnipay-checkout.fi",
+    "name": "kayzorelabs/omnipay-checkout.fi",
     "license": "MIT",
     "autoload": {
         "psr-4": { "Omnipay\\CheckoutFi\\" : "src/" }
